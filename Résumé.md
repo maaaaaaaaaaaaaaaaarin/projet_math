@@ -3,4 +3,7 @@
 
 # Jour 2
 - Test lecture CSV
-- Mise en place du Git
+- Mise en place du Git / collaborateurs
+- Recherche de documents / ressources
+
+# Jour 3
