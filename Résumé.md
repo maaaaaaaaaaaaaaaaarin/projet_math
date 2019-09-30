@@ -10,3 +10,6 @@
 - Mise en place de visualization scatterplot (matplotlib)
 - Création / utilisation wrapper python pour load un csv en liste directement
 - Préparation à la mise en place de différents algorithmes de comparaison
+
+# Jour 4
+- Implémentation formule Bravais-Pearson
